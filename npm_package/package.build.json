@@ -4,8 +4,7 @@
         "prepublishOnly": "npm build"
     },
     "dependencies": {
-        "@types/axios": "^0.14.0",
-        "axios": "^0.21.1",
+        "axios": "^1.7.7",
         "uuid": "^8.3.2"
     }
 }
